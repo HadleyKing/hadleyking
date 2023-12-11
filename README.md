@@ -1,6 +1,6 @@
 # Charles Hadley King
 
-Senior Research Associate, GWSMHS
+Research Scientist, GWSMHS
 
 MSc in Bioinformatics
 
